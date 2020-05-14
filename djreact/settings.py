@@ -13,7 +13,7 @@ SECRET_KEY = '88o+pjm(-vn%!8w1j4ctk*hk)&si-fdat8ye5h-hmx1hpa#w49'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nickreactdjango.herokuapp.com']
 
 
 # Application definition
